@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Community",
+    "price": 1000,
+    "imgUrl": "/imgs/community.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Discord",
+    "price": 400,
+    "imgUrl": "/imgs/discord.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Ethereum",
+    "price": 1500,
+    "imgUrl": "/imgs/ethereum.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Marketing",
+    "price": 800,
+    "imgUrl": "/imgs/marketing.jpeg"
+  }
+]
